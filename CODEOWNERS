@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Peiprjs
+/src/backend/database.py      @Peiprjs
+/src/backend/routers/auth.py  @Peiprjs
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Peiprjs
